@@ -1,0 +1,18 @@
+h1, h2{
+    color: #575757;
+}
+#main{
+    background-image: url(/images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#footer-section{
+    background-color: black;
+    padding: 20px;
+}
+
+.btn{
+    background-color: #FBA24F;
+    color: white;
+}
